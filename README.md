@@ -1,2 +1,2 @@
-# My_NavBar_Reac.js
-This is a simple videoGame project using Unity and C#. With a character, enemies, collectables, simple levels, sounds, particles an a simple UI interface.
+# "The Unstoppable Force: Harnessing the Power Within - A Thrilling Video Game Experience"
+This is a Unity-based first-person shooter game written in C#. The game features two levels where the player needs to clear all the enemies by shooting them and collect collectibles to advance to the next level. The game also includes a life system, where the player starts with three lives and loses one each time they are hit by an enemy. The game also includes a well-designed level with interactive elements such as lights, doors, and moving platforms.
